@@ -16,7 +16,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true"
+    src="https://stats-nyeqm670c-alhasacademy96s-projects.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true"
     alt="GitHub stats"
     height="150"
   />
