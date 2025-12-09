@@ -24,7 +24,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <samp>
     I am a Research Software Engineer in the Department of Zoology at the University of Cambridge, working on research infrastructure for conservation science and evidence synthesis. Previously, I worked as a Software Engineer and later Technical Lead at the Leverhulme Centre for the Future of Intelligence (LCFI), University of Cambridge, where I developed, improved, and maintained the Animal-AI research environment. I hold an MSc in Artificial Intelligence from King's College London (2022), where my dissertation focused on developing an algorithm to predict whether a Twitter (now X) post was factual or fictitious (you can check my dissertation in my repositories section). Outside of work, I read a lot, and I'm also an avid gamer and game developer — currently working on my own psychological horror game set to be commercially released in early 2026 for PC.
   </samp>
