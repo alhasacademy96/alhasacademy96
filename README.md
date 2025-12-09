@@ -15,6 +15,7 @@
 </p>
 
 ---
+
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_rank=true"
@@ -34,61 +35,62 @@
 
 <p align="left">
   <samp>
-I am a Research Software Engineer in the Department of Zoology at the University of Cambridge, working on research infrastructure for conservation science and evidence synthesis. Previously, I worked as a Software Engineer and later Technical Lead at the Leverhulme Centre for the Future of Intelligence (LCFI), University of Cambridge, where I developed, improved, and maintained the Animal-AI research environment. I hold an MSc in Artificial Intelligence from King’s College London (2022), where my dissertation focused on developing an algorithm to predict whether a Twitter (now X) post was factual or fictitious (you can check my dissertation in my repositories section). Outside of work, I read a lot, and I’m also an avid gamer and game developer — currently working on my own psychological horror game set to be commercially released in early 2026 for PC.
+    I am a Research Software Engineer in the Department of Zoology at the University of Cambridge, working on research infrastructure for conservation science and evidence synthesis. Previously, I worked as a Software Engineer and later Technical Lead at the Leverhulme Centre for the Future of Intelligence (LCFI), University of Cambridge, where I developed, improved, and maintained the Animal-AI research environment. I hold an MSc in Artificial Intelligence from King’s College London (2022), where my dissertation focused on developing an algorithm to predict whether a Twitter (now X) post was factual or fictitious (you can check my dissertation in my repositories section). Outside of work, I read a lot, and I’m also an avid gamer and game developer — currently working on my own psychological horror game set to be commercially released in early 2026 for PC.
   </samp>
 </p>
 
+<h2><samp>Interests</samp></h2>
 
-## Interests
-
-- Artificial Intelligence & Machine Learning  
-  - Natural Language Processing  
-  - Computer Vision  
-  - Nature-inspired learning algorithms  
-- Research & tooling  
-- Game development  
-- Mathematics  
-
----
-
-## Tech stack
-
-**Languages**
-
-`Python` · `C#` · `C++`
-
-**Backend / Data**
-
-`Django` · `Django REST Framework` · `PostgreSQL`
-
-**Web / CMS**
-
-(exploring)
-
-**Infra / Developer Experience**
-
-`Docker` · `GitHub Actions` · `Linux` · `macOS` · `Windows` · `VS Code` · `Visual Studio` · `Android Studio`
+- <samp>Artificial Intelligence &amp; Machine Learning</samp>  
+  - <samp>Natural Language Processing</samp>  
+  - <samp>Computer Vision</samp>  
+  - <samp>Nature-inspired learning algorithms</samp>  
+- <samp>Research &amp; tooling</samp>  
+- <samp>Game development</samp>  
+- <samp>Mathematics</samp>  
 
 ---
 
-## Selected work
+<h2><samp>Tech stack</samp></h2>
 
-> A snapshot of the kinds of projects I spend time on.
+**<samp>Languages</samp>**
 
-- **Conservation Evidence Synopsis Platform**  
-  A modular Django/postgreSQL platform to support the full lifecycle of conservation evidence synopses, from reference import to publication-ready content.
+<samp>Python · C# · C++</samp>
 
-- **Animal-AI research infrastructure**  
-  Contributions to a virtual laboratory for comparative cognition and AI research, supporting experiments, benchmarks, and analysis workflows. (_concluded_)
+**<samp>Backend / Data</samp>**
 
-- **Indie game development – “ItLivesInTheWoods”**  
-  A first-person, story-driven psychological horror game set in the forests of Canada, developed as both a creative outlet and an entrepreneurial project, near commercial release.
+<samp>Django · Django REST Framework · PostgreSQL</samp>
+
+**<samp>Web / CMS</samp>**
+
+<samp>(exploring)</samp>
+
+**<samp>Infra / Developer Experience</samp>**
+
+<samp>Docker · GitHub Actions · Linux · macOS · Windows · VS Code · Visual Studio · Android Studio</samp>
+
+---
+
+<h2><samp>Selected work</samp></h2>
+
+> <samp>A snapshot of the kinds of projects I spend time on.</samp>
+
+- **<samp>Conservation Evidence Synopsis Platform</samp>**  
+  <samp>A modular Django/PostgreSQL platform to support the full lifecycle of conservation evidence synopses, from reference import to publication-ready content.</samp>
+
+- **<samp>Animal-AI research infrastructure</samp>**  
+  <samp>Contributions to a virtual laboratory for comparative cognition and AI research, supporting experiments, benchmarks, and analysis workflows. (concluded)</samp>
+
+- **<samp>Indie game development – “ItLivesInTheWoods”</samp>**  
+  <samp>A first-person, story-driven psychological horror game set in the forests of Canada, developed as both a creative outlet and an entrepreneurial project, near commercial release.</samp>
 
 ---
 
 <p align="center">
   <sub>
-    If your work touches conservation science, research infrastructure, AI, or game development,
-    feel free to get in touch.
+    <samp>
+      If your work touches any of my interest points, software engineering, research infrastructure, AI, or game development,
+      feel free to get in touch.
+    </samp>
   </sub>
 </p>
