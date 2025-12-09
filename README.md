@@ -12,18 +12,16 @@
   </a>
 </p>
 
----
-
 <div align="center">
- <img
-  src="https://stats-two-phi.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true&v=1"
-  alt="GitHub stats"
-  height="150"
- />
   <img
-    src="assets/profile-orbit.svg?v=2"
-    alt="Research · AI · Games orbit animation"
-    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alhasacademy96&theme=tokyonight&utcOffset=0"
+    alt="Most productive time"
+    height="170"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alhasacademy96&theme=tokyonight"
+    alt="Contribution graph"
+    height="170"
   />
 </div>
 
