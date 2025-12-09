@@ -89,21 +89,13 @@
     <!-- Center label -->
     <text
       x="0"
-      y="-6"
+      y="0"
       text-anchor="middle"
+      dominant-baseline="middle"
       fill="#e6edf3"
       font-size="12"
       font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace">
       Research Software Engineer
-    </text>
-    <text
-      x="0"
-      y="12"
-      text-anchor="middle"
-      fill="#8b949e"
-      font-size="10"
-      font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace">
-      AI · Infra · Games
     </text>
   </g>
 </svg>
