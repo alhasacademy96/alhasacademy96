@@ -3,13 +3,10 @@
   <samp>Research Software Engineer · University of Cambridge</samp><br/>
   <samp>Experienced in building scalable, efficient and thought-out software solutions from games to research to industry.</samp>
 </p>
+
 <p align="center">
-  <a href="https://alhasacademy96.github.io/alhasacademy.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/alhasacademy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://alhasacademy96.github.io/alhasacademy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alhasacademy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
