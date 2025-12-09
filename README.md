@@ -67,7 +67,7 @@ I am a Research Software Engineer in the Department of Zoology at the University
 
 **Infra / Developer Experience**
 
-`Docker` · `GitHub Actions` · `Linux` · `macOS` · `Windows` · `VS Code` · `Visual Studio` · `Android STudio`
+`Docker` · `GitHub Actions` · `Linux` · `macOS` · `Windows` · `VS Code` · `Visual Studio` · `Android Studio`
 
 ---
 
