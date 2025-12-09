@@ -15,11 +15,11 @@
 ---
 
 <div align="center">
-  <img
-  src="https://stats-two-phi.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true"
+ <img
+  src="https://stats-two-phi.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true&v=1"
   alt="GitHub stats"
   height="150"
-  />
+ />
   <img
     src="assets/profile-orbit.svg"
     alt="Research · AI · Games orbit animation"
