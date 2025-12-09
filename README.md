@@ -16,8 +16,13 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alhasacademy96&theme=transparent"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true"
+    alt="GitHub stats"
+    height="150"
+  />
+  <img
+    src="assets/profile-orbit.svg"
+    alt="Research · AI · Games orbit animation"
     height="150"
   />
 </div>
