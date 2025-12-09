@@ -11,12 +11,12 @@
 
 <div align="center">
   <img
-    src="https://stats-two-phi.vercel.app/api/cards/productive-time?username=alhasacademy96&theme=tokyonight&utcOffset=0"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alhasacademy96&theme=tokyonight&utcOffset=0"
     alt="Most productive time"
     height="150"
   />
   <img
-    src="https://stats-two-phi.vercel.app/api/cards/profile-details?username=alhasacademy96&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alhasacademy96&theme=tokyonight"
     alt="Contribution graph"
     height="150"
   />
