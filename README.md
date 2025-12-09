@@ -16,9 +16,9 @@
 
 <div align="center">
   <img
-    src="https://stats-two-phi.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true"
-    alt="GitHub stats"
-    height="150"
+  src="https://stats-two-phi.vercel.app/api?username=alhasacademy96&show_icons=true&theme=transparent&hide_title=true"
+  alt="GitHub stats"
+  height="150"
   />
   <img
     src="assets/profile-orbit.svg"
