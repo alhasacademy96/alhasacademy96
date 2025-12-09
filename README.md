@@ -21,7 +21,7 @@
   height="150"
  />
   <img
-    src="assets/profile-orbit.svg"
+    src="assets/profile-orbit.svg?v=2"
     alt="Research · AI · Games orbit animation"
     height="150"
   />
