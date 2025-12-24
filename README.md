@@ -36,8 +36,12 @@
   - <samp>Natural Language Processing</samp>  
   - <samp>Computer Vision</samp>  
   - <samp>Nature-inspired learning algorithms</samp>  
+- <samp>Computer Science</samp>  
+  - <samp>Algorithms</samp>  
+  - <samp>Optimisation</samp>
 - <samp>Game Development</samp>  
 - <samp>Mathematics</samp>  
+
 
 ---
 
