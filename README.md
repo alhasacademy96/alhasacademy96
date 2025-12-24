@@ -65,21 +65,6 @@
 
 ---
 
-<h2><samp>Selected work</samp></h2>
-
-> <samp>A snapshot of the kinds of projects I spend time on.</samp>
-
-- **<samp>Conservation Evidence Synopsis Platform</samp>**  
-  <samp>A modular Django/PostgreSQL platform to support the full lifecycle of conservation evidence synopses, from reference import to publication-ready content.</samp>
-
-- **<samp>Animal-AI research infrastructure</samp>**  
-  <samp>Contributions to a virtual laboratory for comparative cognition and AI research, supporting experiments, benchmarks, and analysis workflows. (concluded)</samp>
-
-- **<samp>Indie game development – "ItLivesInTheWoods"</samp>**  
-  <samp>A first-person, story-driven psychological horror game set in the forests of Canada, developed as both a creative outlet and an entrepreneurial project, near commercial release.</samp>
-
----
-
 <p align="center">
   <sub>
     <samp>
