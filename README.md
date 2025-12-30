@@ -30,7 +30,7 @@
   </samp>
 </p>
 
-<h2><samp>Interests</samp></h2>
+<h2><samp>Research Interests</samp></h2>
 
 - <samp>Artificial Intelligence &amp; Machine Learning</samp>  
   - <samp>Natural Language Processing</samp>  
