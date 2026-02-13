@@ -58,13 +58,3 @@
 
 <samp>Docker · GitHub Actions · Linux · macOS · Windows · VS Code · Visual Studio · Android Studio</samp>
 
----
-
-<p align="center">
-  <sub>
-    <samp>
-      If your work touches any of my interest points, software engineering, research infrastructure, AI, or game development,
-      feel free to get in touch.
-    </samp>
-  </sub>
-</p>
