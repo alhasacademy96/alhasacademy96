@@ -44,17 +44,13 @@
 
 **<samp>Languages</samp>**
 
-<samp>Python · C# · C++</samp>
+> <samp>Python · C# · C++</samp>
 
 **<samp>Backend / Data</samp>**
 
-<samp>Django · Django REST Framework · PostgreSQL</samp>
-
-**<samp>Web / CMS</samp>**
-
-<samp>(exploring)</samp>
+> <samp>Django · Django REST Framework · PostgreSQL</samp>
 
 **<samp>Infra / Developer Experience</samp>**
 
-<samp>Docker · GitHub Actions · Linux · macOS · Windows · VS Code · Visual Studio · Android Studio</samp>
+> <samp>Docker · GitHub Actions · Linux · macOS · Windows · VS Code · Visual Studio · Android Studio</samp>
 
