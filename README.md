@@ -40,7 +40,7 @@
 
 ---
 
-<h2><samp>Tech stack</samp></h2>
+<h2><samp>Tech Stack</samp></h2>
 
 **<samp>Languages</samp>**
 
@@ -48,9 +48,15 @@
 
 **<samp>Backend / Data</samp>**
 
-> <samp>Django · Django REST Framework · PostgreSQL</samp>
+> <samp>Django · Django REST Framework · SQL · PostgreSQL · json</samp>
 
 **<samp>Infra / Developer Experience</samp>**
 
-> <samp>Docker · GitHub Actions · Linux · macOS · Windows · VS Code · Visual Studio · Android Studio</samp>
+> <samp>GitHub · GitLab · Docker · VS Code · Visual Studio · Android Studio · Linux · macOS · Windows</samp>
 
+**<samp>Game Development</samp>**
+
+> <samp>Unreal Engine · Unity · Blender · Audacity · Substance Painter · Photoshop</samp>
+
+**<samp>Artificial Intelligence</samp>**
+> <samp>Tensorflow · PyTorch · LM Studio · Hugging Face · Kaggle</samp>
