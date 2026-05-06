@@ -1,9 +1,10 @@
 <!-- README.md (profile repo: alhasacademy96/alhasacademy96) -->
 
 <h1 align="center">Ibrahim Alhas</h1>
+
 <p align="center">
-  <samp>Research Software Engineer · University of Cambridge</samp><br/>
-  <samp>Experienced in building scalable, efficient and thought-out software solutions from games to research to industry.</samp>
+  <samp>Software Engineer<br/>
+  <samp>Software Engineering · AI/LLMs · Research Software · Game Development</samp>
 </p>
 
 <p align="center">
@@ -22,41 +23,78 @@
 
 <p align="center">
   <samp>
-    I am a Research Software Engineer in the Department of Zoology at the University of Cambridge, working on research infrastructure for conservation science and evidence synthesis. Previously, I worked as a Software Engineer and later Technical Lead at the Leverhulme Centre for the Future of Intelligence (LCFI), University of Cambridge, where I developed, improved, and maintained the Animal-AI research environment. I hold an MSc in Artificial Intelligence from King's College London (2022), where my dissertation focused on developing an ML algorithm to predict whether a Twitter (now X) post was factual or fictitious (you can check my dissertation in my repositories section). Outside of work, I read a lot, and I'm also an avid gamer and game developer — currently working on my own psychological horror game set to be commercially released in early 2026 for PC.
+    I am a Research Software Engineer in the Department of Zoology at the University of Cambridge, working on research software, AI-assisted workflows, and data-processing pipelines for conservation evidence synthesis. My current work includes owning and developing AI/LLM pipelines for the Conservation Evidence database, researching and evaluating open-source language models, and integrating Hugging Face models into author-facing research tools.
   </samp>
 </p>
 
-<h2><samp>Research Interests</samp></h2>
+<p align="center">
+  <samp>
+    Previously, I worked as a Software Engineer and later Lead Software Engineer at the Leverhulme Centre for the Future of Intelligence, University of Cambridge, where I owned development across Python, C#, Unity, Django, AWS, testing, documentation, and open-source research software. I also hold an MSc in Artificial Intelligence from King's College London.
+  </samp>
+</p>
 
-- <samp>Artificial Intelligence &amp; Machine Learning</samp>  
-  - <samp>Natural Language Processing</samp>  
-  - <samp>Computer Vision</samp>  
-  - <samp>Nature-inspired learning algorithms</samp>  
-- <samp>Computer Science</samp>  
-  - <samp>Algorithms</samp>  
-  - <samp>Optimisation</samp>
-- <samp>Game Development</samp>  
-- <samp>Mathematics</samp>  
+<p align="center">
+  <samp>
+    Outside of research software, I develop games and recently commercially released my psychological horror game, <i>ItLivesInTheWoods</i>, on Steam.
+  </samp>
+</p>
+
+---
+
+<h2><samp>Focus Areas</samp></h2>
+
+- <samp>Research Software Engineering</samp>
+  - <samp>Scientific software</samp>
+  - <samp>Reproducible research workflows</samp>
+  - <samp>Data-processing pipelines</samp>
+  - <samp>Open-source development</samp>
+
+- <samp>Artificial Intelligence &amp; Machine Learning</samp>
+  - <samp>Large Language Models</samp>
+  - <samp>Natural Language Processing</samp>
+  - <samp>Model training, evaluation, and optimisation</samp>
+  - <samp>Hugging Face and open-source AI models</samp>
+
+- <samp>Software Engineering</samp>
+  - <samp>Software architecture</samp>
+  - <samp>Testing and CI/CD</samp>
+  - <samp>Backend and full-stack systems</samp>
+  - <samp>Documentation and maintainability</samp>
+
+- <samp>Game Development</samp>
+  - <samp>Unreal Engine</samp>
+  - <samp>Unity</samp>
+  - <samp>Gameplay systems</samp>
+  - <samp>Performance optimisation</samp>
 
 ---
 
 <h2><samp>Tech Stack</samp></h2>
 
+**<samp>Software Engineering</samp>**
+
+> <samp>Software Architecture · Object-Oriented Design · Algorithms · Data Structures · Unit Testing · Integration Testing · End-to-End Testing · Debugging · Documentation · Code Review · Open-Source Development</samp>
+
 **<samp>Languages</samp>**
 
-> <samp>Python · C# · C++</samp>
+> <samp>Python · C# · C++ · JavaScript · HTML5 · CSS</samp>
 
-**<samp>Backend / Data</samp>**
+**<samp>AI &amp; Machine Learning</samp>**
 
-> <samp>Django · Django REST Framework · SQL · PostgreSQL · json</samp>
+> <samp>Hugging Face · PyTorch · TensorFlow · Keras · Scikit-learn · LLMs · NLP · Model Training · Model Evaluation · Model Optimisation · Reinforcement Learning</samp>
 
-**<samp>Infra / Developer Experience</samp>**
+**<samp>Data &amp; Scientific Computing</samp>**
 
-> <samp>GitHub · GitLab · Docker · VS Code · Visual Studio · Android Studio · Linux · macOS · Windows</samp>
+> <samp>NumPy · Pandas · Matplotlib · Data Processing · Statistical Analysis · Reproducible Research Workflows</samp>
+
+**<samp>Backend / Web / Databases</samp>**
+
+> <samp>Django · Django REST Framework · RESTful APIs · API Design · React · SQL · PostgreSQL · Database-Backed Web Applications</samp>
+
+**<samp>Cloud / DevOps / Developer Tools</samp>**
+
+> <samp>AWS Elastic Beanstalk · AWS S3 · AWS RDS · Docker · GitHub Actions · CI/CD · Git · GitHub · GitLab · Linux · macOS · Windows · VS Code · Visual Studio</samp>
 
 **<samp>Game Development</samp>**
 
-> <samp>Unreal Engine · Unity · Blender · Audacity · Substance Painter · Photoshop</samp>
-
-**<samp>Artificial Intelligence</samp>**
-> <samp>Tensorflow · PyTorch · LM Studio · Hugging Face · Kaggle</samp>
+> <samp>Unreal Engine 5 · Unity · C++ · C# · Gameplay Systems · NPC AI · Behaviour Trees · WebGL · Performance Optimisation · Blender · Photoshop · Substance Painter · Audacity</samp>
