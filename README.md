@@ -31,7 +31,7 @@
 
 <p align="center">
   <samp>
-    Outside of research software, I develop games and recently commercially released my psychological horror game, <i>ItLivesInTheWoods</i>, on Steam.
+    Outside of my career, I develop games and recently commercially released my psychological horror game, <i>ItLivesInTheWoods</i>, on Steam.
   </samp>
 </p>
 
