@@ -37,34 +37,6 @@
 
 ---
 
-<h2><samp>Focus Areas</samp></h2>
-
-- <samp>Research Software Engineering</samp>
-  - <samp>Scientific software</samp>
-  - <samp>Reproducible research workflows</samp>
-  - <samp>Data-processing pipelines</samp>
-  - <samp>Open-source development</samp>
-
-- <samp>Artificial Intelligence &amp; Machine Learning</samp>
-  - <samp>Large Language Models</samp>
-  - <samp>Natural Language Processing</samp>
-  - <samp>Model training, evaluation, and optimisation</samp>
-  - <samp>Hugging Face and open-source AI models</samp>
-
-- <samp>Software Engineering</samp>
-  - <samp>Software architecture</samp>
-  - <samp>Testing and CI/CD</samp>
-  - <samp>Backend and full-stack systems</samp>
-  - <samp>Documentation and maintainability</samp>
-
-- <samp>Game Development</samp>
-  - <samp>Unreal Engine</samp>
-  - <samp>Unity</samp>
-  - <samp>Gameplay systems</samp>
-  - <samp>Performance optimisation</samp>
-
----
-
 <h2><samp>Tech Stack</samp></h2>
 
 **<samp>Software Engineering</samp>**
