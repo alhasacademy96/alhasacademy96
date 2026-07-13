@@ -14,7 +14,7 @@
 
 <p align="center">
   <samp>
-    I am a Software Engineer, previously in the Department of Zoology at the University of Cambridge working on research software, AI-assisted workflows, and data-processing pipelines for conservation evidence synthesis. My current work includes owning and developing AI/LLM pipelines for the Conservation Evidence database, researching and evaluating open-source language models, and integrating Hugging Face models into author-facing research tools.
+    I am a Software Engineer, previously in the Department of Zoology at the University of Cambridge working on research software, AI-assisted workflows, and data-processing pipelines for conservation evidence synthesis. My work included owning and developing AI/LLM pipelines for the Conservation Evidence database, researching and evaluating open-source language models, and integrating Hugging Face models into author-facing research tools.
   </samp>
 </p>
 
