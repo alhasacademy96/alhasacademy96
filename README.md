@@ -3,10 +3,6 @@
 <h1 align="center">Ibrahim Alhas</h1>
 
 <p align="center">
-  <samp>Software Engineer<br/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/alhasacademy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
