@@ -4,7 +4,6 @@
 
 <p align="center">
   <samp>Software Engineer<br/>
-  <samp>Software Engineering · AI/LLMs · Research Software · Game Development</samp>
 </p>
 
 <p align="center">
