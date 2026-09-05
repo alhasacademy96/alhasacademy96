@@ -1,5 +1,3 @@
-<!-- README.md (profile repo: alhasacademy96/alhasacademy96) -->
-
 <h1 align="center">Ibrahim Alhas</h1>
 
 <p align="center">
@@ -14,19 +12,19 @@
 
 <p align="center">
   <samp>
-    I am a Software Engineer, previously in the Department of Zoology at the University of Cambridge working on research software, AI-assisted workflows, and data-processing pipelines for conservation evidence synthesis. My work included owning and developing AI/LLM pipelines for the Conservation Evidence database, researching and evaluating open-source language models, and integrating Hugging Face models into author-facing research tools.
+    Software Engineer with a background in research software, artificial intelligence, full-stack development, and game development. My work spans Python, Django, C++, C#, cloud infrastructure, data-processing pipelines, and AI/LLM-powered applications.
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    Previously, I worked as a Software Engineer and later Lead Software Engineer at the Leverhulme Centre for the Future of Intelligence, University of Cambridge, where I owned development across Python, C#, Unity, Django, AWS, testing, documentation, and open-source research software. I also hold an MSc in Artificial Intelligence from King's College London.
+    I hold an MSc in Artificial Intelligence from King's College London, with experience working on NLP, machine learning, open-source language models, and software systems that turn research and data into practical applications.
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    Outside of my career, I develop games and recently commercially released my psychological horror game, <i>ItLivesInTheWoods</i>, on Steam.
+    Outside of software engineering, I develop games and commercially released the psychological horror game <i>ItLivesInTheWoods</i> on Steam.
   </samp>
 </p>
 
@@ -34,30 +32,30 @@
 
 <h2><samp>Tech Stack</samp></h2>
 
-**<samp>Software Engineering</samp>**
-
-> <samp>Software Architecture · Object-Oriented Design · Algorithms · Data Structures · Unit Testing · Integration Testing · End-to-End Testing · Debugging · Documentation · Code Review · Open-Source Development</samp>
-
 **<samp>Languages</samp>**
 
-> <samp>Python · C# · C++ · JavaScript · HTML5 · CSS</samp>
+> <samp>Python · C++ · C# · JavaScript · HTML5 · CSS · SQL</samp>
 
-**<samp>AI &amp; Machine Learning</samp>**
+**<samp>AI & Machine Learning</samp>**
 
-> <samp>Hugging Face · PyTorch · TensorFlow · Keras · Scikit-learn · LLMs · NLP · Model Training · Model Evaluation · Model Optimisation · Reinforcement Learning</samp>
+> <samp>LLMs · NLP · Hugging Face · PyTorch · TensorFlow · Keras · Scikit-learn · Model Training · Evaluation · Optimisation</samp>
 
-**<samp>Data &amp; Scientific Computing</samp>**
+**<samp>Web & Backend</samp>**
 
-> <samp>NumPy · Pandas · Matplotlib · Data Processing · Statistical Analysis · Reproducible Research Workflows</samp>
+> <samp>Django · Django REST Framework · React · REST APIs · PostgreSQL · Database-Backed Applications</samp>
 
-**<samp>Backend / Web / Databases</samp>**
+**<samp>Data & Scientific Computing</samp>**
 
-> <samp>Django · Django REST Framework · RESTful APIs · API Design · React · SQL · PostgreSQL · Database-Backed Web Applications</samp>
+> <samp>NumPy · Pandas · Matplotlib · Data Processing · Statistical Analysis · Research Workflows</samp>
 
-**<samp>Cloud / DevOps / Developer Tools</samp>**
+**<samp>Cloud & DevOps</samp>**
 
-> <samp>AWS Elastic Beanstalk · AWS S3 · AWS RDS · Docker · GitHub Actions · CI/CD · Git · GitHub · GitLab · Linux · macOS · Windows · VS Code · Visual Studio</samp>
+> <samp>AWS · Docker · GitHub Actions · CI/CD · Git · GitHub · GitLab · Linux</samp>
+
+**<samp>Software Engineering</samp>**
+
+> <samp>Software Architecture · Object-Oriented Design · Algorithms · Data Structures · Testing · Debugging · Code Review · Documentation · Open-Source Development</samp>
 
 **<samp>Game Development</samp>**
 
-> <samp>Unreal Engine 5 · Unity · C++ · C# · Gameplay Systems · NPC AI · Behaviour Trees · WebGL · Performance Optimisation · Blender · Photoshop · Substance Painter · Audacity</samp>
+> <samp>Unreal Engine 5 · Unity · C++ · C# · Gameplay Systems · NPC AI · Behaviour Trees · Performance Optimisation · Blender · Substance Painter</samp>
